@@ -8,3 +8,7 @@ This is an SDEV 220: Soft. Dev. Using Python programming assignment. The assignm
 - 3.4 Calculate seconds per day again, but this time save the result in a variable called seconds_per_day.
 - 3.5 Divide seconds_per_day by seconds_per_hour. Use floating-point (/) division.
 - 3.6 Divide seconds_per_day by seconds_per_hour, using integer (//) division. Did this number agree with the floating-point value from the previous question, aside from the final .0?
+
+### Book
+Introducing Python, 2nd Edition  
+by Bill Lubanovic
