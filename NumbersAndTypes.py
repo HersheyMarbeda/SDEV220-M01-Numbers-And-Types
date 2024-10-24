@@ -5,7 +5,6 @@
 # Program (last updated): 10.24.2024
 
 # Variables
-
 seconds = 60
 minutes =  60
 day = 24
